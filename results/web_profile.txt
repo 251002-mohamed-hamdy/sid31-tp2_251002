@@ -1,0 +1,15 @@
+records: 45260
+distinct_os_name (empty counts as a value): 6
+no_city_name: 3339 (7.38% of 45260 records)
+ios_pct_all: 46.18% (20899 / 45260 records)
+android_pct_all: 39.34% (17805 / 45260 records)
+mobile_pct_all: 85.51% (38704 / 45260 records)
+ios_pct_known_os: 46.80% (20899 / 44655 records with a known os_name)
+android_pct_known_os: 39.87% (17805 / 44655 records with a known os_name)
+mobile_pct_known_os: 86.67% (38704 / 44655 records with a known os_name)
+top5_web_client (count client):
+  14879 Mobile Safari
+  9668 Chrome Mobile
+  6205 Samsung Internet
+  4888 FacebookBot
+  2361 Other
